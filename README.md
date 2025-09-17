@@ -1,1 +1,5 @@
-# FoodRecipeApp
+The Food Recipe Application is a mini project developed in Android Studio (Java) that provides a simple and efficient way for users to discover, manage, and share recipes. With the increasing popularity of home cooking, many people face challenges in finding recipes that match their available ingredients, preparation time, or dietary needs. This app solves that by offering categorized browsing (food type, cuisine, course), advanced filtering (by ingredients, prep/cook/total time, and servings), and a clean interface that is easy for all users to navigate.
+
+In addition to viewing recipes, users can also contribute their own recipes, making the app community-driven and content-rich. Each recipe provides detailed information such as ingredients, cooking steps, and total time required, helping both beginners and experienced cooks.
+
+The application is lightweight, efficient, and user-friendly, designed to run smoothly on a wide range of Android devices. It not only saves time for users but also encourages healthy eating habits and culinary exploration by making recipe discovery interactive and personalized.
